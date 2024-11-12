@@ -13,7 +13,6 @@ This repository contains the implementation and analysis of four cases provided 
   - [Case 04: Object Detection](#case-04-object-detection)
 - [Usage](#usage)
 - [Requirements](#requirements)
-- [License](#license)
 
 ## Introduction
 
